@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "What's your favorite programming language?",
+    "description": "Help us understand the developer community preferences",
+    "options": [
+      {
+        "text": "JavaScript",
+        "votes": 18
+      },
+      {
+        "text": "Python",
+        "votes": 13
+      },
+      {
+        "text": "Java",
+        "votes": 8
+      },
+      {
+        "text": "TypeScript",
+        "votes": 6
+      }
+    ],
+    "createdAt": "2025-07-16T15:23:24.736Z"
+  },
+  {
+    "id": 2,
+    "title": "Best time for team meetings?",
+    "description": "When should we schedule our weekly team sync?",
+    "options": [
+      {
+        "text": "Morning (9-11 AM)",
+        "votes": 8
+      },
+      {
+        "text": "Afternoon (2-4 PM)",
+        "votes": 12
+      },
+      {
+        "text": "Evening (5-7 PM)",
+        "votes": 3
+      }
+    ],
+    "createdAt": "2025-07-16T15:23:24.736Z"
+  },
+  {
+    "id": 3,
+    "title": "Prefered dietary option for catering?",
+    "description": "",
+    "options": [
+      {
+        "text": "Vegan",
+        "votes": 0
+      },
+      {
+        "text": "Vegetarian",
+        "votes": 0
+      },
+      {
+        "text": "Ovo-Vegetarians",
+        "votes": 0
+      },
+      {
+        "text": "Pescatarians",
+        "votes": 0
+      },
+      {
+        "text": "Non-Vegetarian",
+        "votes": 0
+      }
+    ],
+    "createdAt": "2025-07-16T15:40:02.739Z",
+    "totalVotes": 0
+  }
+]
